@@ -9,7 +9,6 @@
 <a href="https://dribbble.com/floriandwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="floriandwt" height="30" width="40" /></a>
 </p>
 
-<img src="github-user-contribution.svg"/>
 
 <!--
 **floriandwt/floriandwt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
