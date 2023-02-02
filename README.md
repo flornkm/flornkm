@@ -1,11 +1,5 @@
 <h3 align="left">Hey, my name is Florian</h3>
 <h6 align="left">I am a creative technologist and I love working on interesting projects.</h6>
-<br/>
-<h5 align="left">Connect with me:</h5>
-<p align="left">
-<a href="https://linkedin.com/in/floriandwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="floriandwt" height="20" width="25" /></a>
-<a href="https://dribbble.com/floriandwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="floriandwt" height="20" width="25" /></a>
-</p>
 
 
 <!--
