@@ -1,6 +1,6 @@
 <img src="./florian_lettering.svg" alt="Florian Lettering" height="80">
 <h3 align="left">Hey, my name is Florian</h3>
-I am a creative technologist and I love working on interesting projects. I like coding Web Applications but I also love trying out new languages and technologies. You can reach out to me on my links beneath, I love getting to know new people.
+I am a creative technologist and I love working on interesting projects. I like coding Web Applications but I also love trying out new languages and technologies.
 
 
 <!--
