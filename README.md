@@ -1,4 +1,4 @@
-<img src="./florian_lettering.svg" alt="Florian Lettering" height="80">
+<img src="./favicon.png" alt="Florian Lettering" height="64">
 <h3 align="left">Hey, my name is Florian</h3>
 I am a creative technologist and I love working on interesting projects. I like coding Web Applications but I also love trying out new languages and technologies.
 
