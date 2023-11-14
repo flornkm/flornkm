@@ -1,10 +1,13 @@
-<img src="./favicon.png" alt="Florian Lettering" height="64">
-<h3 align="left">Hey, I'm Florian</h3>
-I am a creative technologist and I love learning new technologies.
-<br /><br /><br />
-<b>Currently:</b> Working at <a href="https://inlang.com/">inlang</a> and helping to shape the future of open-source localization infrastructure.
+<h3>Florian - A designer and developer building digital products.</h3>
+Started designing in 2013, learned coding in 2020. Now I'm here.
 <br /><br />
-<b>Learning:</b> Studying at <a href="https://www.hfg-gmuend.de/">HfG Schwaebisch Gmuend</a> and attending B.A. Digital Product Design and Development.
-<br /><br /><br />
-✨ In my free time, I love to do sports, meet with other designers or developers or just travel around the globe. I would consider myself also to be quite a funny guy.<br/>
-Let's connect on <a href="https://twitter.com/floriandwt">Twitter</a>.
+
+⬛ Currently: Working at [inlang](https://inlang.com/) building an ecosystem for globalization.
+
+📍 Location: Berlin, Germany
+
+🛜 Contact: [personal website](https://floriankiem.com/) or [x.com](https://x.com/flornkm/)
+
+<br />
+
+<img src="https://github.com/flornkm/flornkm/assets/92092993/84e7ff8b-5698-41fb-854d-e90cdc487ab1" alt="Florian Lettering" height="64" />
