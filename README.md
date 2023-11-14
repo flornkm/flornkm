@@ -10,4 +10,4 @@ Started designing in 2013, learned coding in 2020. Now I'm here.
 
 <br />
 
-<img src="https://github.com/flornkm/flornkm/assets/92092993/29a38336-c457-41e9-9780-bbc0a46a648a" alt="Florian Lettering" height="64" />
+<img src="https://github.com/flornkm/flornkm/assets/92092993/b5a49150-459d-4eb5-a1e6-a0e9850c02b0" alt="Florian Lettering" height="64" />
