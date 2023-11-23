@@ -2,11 +2,11 @@
 Started designing in 2013, learned coding in 2020. Now I'm here.
 <br /><br />
 
-⬛ Currently: Working at [inlang](https://inlang.com/) building an ecosystem for globalization.
+**Currently:** Working at [inlang](https://inlang.com/) building an ecosystem for globalization.
 
-📍 Location: Berlin, Germany
+**Location:** Berlin, Germany
 
-🛜 Contact: [personal website](https://floriankiem.com/) or [x.com](https://x.com/flornkm/)
+**Contact:** [personal website](https://floriankiem.com/) or [x.com](https://x.com/flornkm/)
 
 <br />
 
