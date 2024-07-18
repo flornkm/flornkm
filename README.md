@@ -4,7 +4,7 @@ Started designing in 2013, learned coding in 2020. Now I'm here.
 
 **Currently:** Building a product and doing design/coding experiments.
 
-**Location:** Delft, Netherlands
+**Location:** Anywhere
 
 **Contact:** [personal website](https://floriankiem.com/) or [Twitter/X](https://x.com/flornkm/)
 
